@@ -2,6 +2,7 @@
 *Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Cevap:  
+
 1=> [22,27,16,2,18,6]  
 2=> [22,16,27,2,18,6]  
 3=> [16,22,27,2,18,6]  
