@@ -1,7 +1,7 @@
 [22,27,16,2,18,6] ->  Insertion Sort
 *Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-Cevap:
+Cevap:  
 1=> [22,27,16,2,18,6]  
 2=> [22,16,27,2,18,6]  
 3=> [16,22,27,2,18,6]  
@@ -46,3 +46,5 @@ Cevap :
 7=>[2,3,4,5,6,7,8,15,9]  
 8=>[2,3,4,5,6,7,8,9,15]  
 9=>[2,3,4,5,6,7,8,9,15]  
+
+[Patika Linkim](https://app.patika.dev/irnasizirum)
